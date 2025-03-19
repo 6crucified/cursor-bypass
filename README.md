@@ -1,4 +1,4 @@
-# 🚀 Cursor Free Trial Reset Tool
+# 🚀 Cursor Free Trial Limit Bypass
 
 <div align="center">
 
@@ -12,9 +12,9 @@
 
 </div>
 
-> ⚠️ **IMPORTANT NOTICE**
+> ⚠️ **Suppported Versions**
 > 
-> This tool currently supports:
+> Current supported versions
 > - ✅ Cursor v0.45.x and below
 > - ✅ Windows: Latest 0.47.x versions (Supported)
 > - ✅ Mac/Linux: Latest 0.47.x versions (Supported, feedback welcome)
